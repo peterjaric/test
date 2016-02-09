@@ -1,3 +1,1 @@
-# Do not use this password! It is secret!
-password=CHANGEDPASSWORD
-username=shouldnotbehereeither
+Gone, gone I say!
